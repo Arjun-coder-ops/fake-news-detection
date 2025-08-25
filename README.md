@@ -2,7 +2,7 @@
 
 This project is a web application for detecting fake news using a machine learning model. The app is built with Streamlit and uses a pre-trained Logistic Regression model and a TF-IDF vectorizer to classify news as real or fake.
 
-##Live url
+# Live url
 
 https://fake-news-detection-jblevdbf8l4z6ry4jgftdu.streamlit.app/
 
